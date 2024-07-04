@@ -1,6 +1,4 @@
-# Will It Vend?
-
-## Exploring Beyond Traditional Snacks and Beverages
+# Exploring Beyond Traditional Snacks and Beverages
 
 Welcome to the innovative world of "Will It Vend," where we challenge the conventional perception of vending machines as mere dispensers of snacks and beverages. In this digital age of rapid innovation, vending machines have evolved far beyond their traditional role, emerging as versatile platforms capable of dispensing a wide array of products and experiences.
 
