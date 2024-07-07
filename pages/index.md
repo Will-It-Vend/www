@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Will It Vend&trade;
+title: Will It Vend?
 description: Exploring Beyond Traditional Snacks and Beverages
 permalink: /
 ---
