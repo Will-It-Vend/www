@@ -11,7 +11,7 @@ We celebrate the diversity and ingenuity of modern vending solutions. From cutti
 
 Our mission is to showcase how vending machines are more than mear drink and beverage machines.  
 
-If you have an item you would like to vend but can't figure out a way to vend it, send us an email and we will try to figure it out.
+If you have an item you would like to vend but can't figure out a way to vend it, send us an email and we will try to figure it out.  <span class="email">support@will-it-vend<b>.willitvend</b>.com</span>
 
 ## Reddit
 Visit our subreddit of in the wild machines that push this way of thinking:
